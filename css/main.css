@@ -2,13 +2,13 @@
   border: 5px solid black;
   min-height: 80vh;
   display: grid;
-  grid-template-columns: repeat(4,1fr);
+  grid-template-columns: repeat(4, 1fr);
   grid-auto-columns: 50px;
 }
 
 .item {
   border: 5px solid lightskyblue;
-  text-align: center; 
+  text-align: center;
   font-size: 30px;
   padding: 7px;
 }
